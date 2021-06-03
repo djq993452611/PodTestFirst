@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
 
 
   s.name         = "PodTestFirst"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.swift_version = '5.0'
   s.ios.deployment_target = '10.0'
   s.summary      = "简介"
