@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
 
 
   s.name         = "PodTestFirstSDK"
-  s.version      = "0.0.6"
+  s.version      = "0.0.7"
   s.swift_version = '5.0'
   s.ios.deployment_target = '10.0'
   s.summary      = "简介"
@@ -29,7 +29,7 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/djq993452611/PodTestFirstSDK.git", :tag => s.version }
   s.requires_arc = true
   ##路径添加，远程验证有问题的情况，把路径名字改成小写的文件名
-  s.source_files = "**/public/*", "**/public/**/*"
+  #s.source_files = "**/public/*", "**/public/**/*"
   s.vendored_frameworks = '**/sources/*.framework'
   
   

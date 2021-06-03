@@ -13,4 +13,9 @@ public class PublicThirdTool: NSObject {
         PrivateFourthTool.hello()
     }
     
+    public static func hello2() {
+        print("third Hello2")
+        PrivateFourthTool.hello2()
+    }
+    
 }

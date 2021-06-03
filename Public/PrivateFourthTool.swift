@@ -13,4 +13,7 @@ class PrivateFourthTool: NSObject {
         print("fourth Hello")
     }
     
+    public static func hello2() {
+        print("fourth Hello2")
+    }
 }
