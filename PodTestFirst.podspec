@@ -10,22 +10,23 @@ Pod::Spec.new do |s|
 
 
   s.name         = "PodTestFirst"
-  s.version      = "0.0.1"
-  s.description  = "长介绍"
+  s.version      = "0.0.2"
+  s.swift_version = '5.0'
+  s.ios.deployment_target = '10.0'
   s.summary      = "简介"
+  s.description  = "长介绍"
   s.homepage     = "https://github.com/djq993452611/PodTestFirst"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
- # s.license     = "MIT"
-  s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
+   s.license     = "MIT"
+ # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
 
   s.author             = { "JianQi" => "13178331272@163.com" }
   s.source       = { :git => "https://github.com/djq993452611/PodTestFirst.git", :tag => s.version }
   s.requires_arc = true
-  s.source_files  = "PublicTest/*"
+  s.source_files = "PublicTest/*"
   
-  s.swift_version = '5.0'
-  s.ios.deployment_target = '10.0'
+  
   
   # s.exclude_files = "Classes/Exclude"
   # spec.public_header_files = "Classes/**/*.h"
