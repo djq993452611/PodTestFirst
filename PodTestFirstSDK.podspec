@@ -24,8 +24,8 @@ Pod::Spec.new do |s|
   s.author             = { "JianQi" => "13178331272@163.com" }
   s.source       = { :git => "https://github.com/djq993452611/PodTestFirstSDK.git", :tag => s.version }
   s.requires_arc = true
-  s.source_files = "Public/*", "Public/**/*"
-  s.vendored_frameworks = 'Sources/*.framework'
+  s.source_files = "**/Public/*", "**/Public/**/*"
+  s.vendored_frameworks = '**/Sources/*.framework'
   
   
   # s.exclude_files = "Classes/Exclude"
