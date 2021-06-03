@@ -7,7 +7,7 @@ import Foundation
 
 public class PublicSecondTool: NSObject {
     
-    public static func sayHello() {
+    public static func hello() {
         print("second hello")
         PrivateFirstTool.hello()
     }

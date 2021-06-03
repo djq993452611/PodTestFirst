@@ -1,16 +1,16 @@
 //
-//  PublicThirsTool.swift
+//  PublicFourthTool.swift
 //  PodTestFirstSDK
 //
 //  Created by Dylan on 2021/6/3.
 //
+
 import Foundation
 
-public class PublicThirdTool: NSObject {
+class PrivateFourthTool: NSObject {
     
     public static func hello() {
-        print("third Hello")
-        PrivateFourthTool.hello()
+        print("fourth Hello")
     }
     
 }
