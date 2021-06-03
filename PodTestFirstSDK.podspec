@@ -5,12 +5,16 @@
 #  To learn more about Podspec attributes see https://guides.cocoapods.org/syntax/podspec.html
 #  To see working Podspecs in the CocoaPods repo see https://github.com/CocoaPods/Specs/
 #
+#  0.0.4版本 测试包含源文件public和提供静态库sources
+#  0.0.5版本 测试只有供静态库sources
+#  
+
 
 Pod::Spec.new do |s|
 
 
   s.name         = "PodTestFirstSDK"
-  s.version      = "0.0.4"
+  s.version      = "0.0.5"
   s.swift_version = '5.0'
   s.ios.deployment_target = '10.0'
   s.summary      = "简介"

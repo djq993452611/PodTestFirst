@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/PodTestFirstSDK-Swift.h</key>
 		<data>
-		LfUA3AAEuxEiTqNaKETHy0xTy6Y=
+		OfewEW2f5GCT4Izp2Py2O0vWkzk=
 		</data>
 		<key>Headers/PodTestFirstSDK-umbrella.h</key>
 		<data>
@@ -18,11 +18,27 @@
 		</data>
 		<key>Modules/PodTestFirstSDK.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		hAhnApMxwavzQOe3dO8uzA67rF8=
+		/5bxWOaApfLXYsLyLtSSZolB3Z4=
 		</data>
 		<key>Modules/PodTestFirstSDK.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		hAhnApMxwavzQOe3dO8uzA67rF8=
+		/5bxWOaApfLXYsLyLtSSZolB3Z4=
+		</data>
+		<key>Modules/PodTestFirstSDK.swiftmodule/Project/i386-apple-ios-simulator.swiftsourceinfo</key>
+		<data>
+		jXTrWT7UtkPA+s2nm5OSuQ3K/lw=
+		</data>
+		<key>Modules/PodTestFirstSDK.swiftmodule/Project/i386.swiftsourceinfo</key>
+		<data>
+		jXTrWT7UtkPA+s2nm5OSuQ3K/lw=
+		</data>
+		<key>Modules/PodTestFirstSDK.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<data>
+		/EF41Uagr1fC4yc7ndQNEjaP77o=
+		</data>
+		<key>Modules/PodTestFirstSDK.swiftmodule/Project/x86_64.swiftsourceinfo</key>
+		<data>
+		/EF41Uagr1fC4yc7ndQNEjaP77o=
 		</data>
 		<key>Modules/PodTestFirstSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,7 +46,7 @@
 		</data>
 		<key>Modules/PodTestFirstSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		S//1hCxc2VkG7hfbIc580vbZfEY=
+		x630Hk7fm1L5g44o+9kBgeJh25g=
 		</data>
 		<key>Modules/PodTestFirstSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -38,7 +54,39 @@
 		</data>
 		<key>Modules/PodTestFirstSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		S//1hCxc2VkG7hfbIc580vbZfEY=
+		x630Hk7fm1L5g44o+9kBgeJh25g=
+		</data>
+		<key>Modules/PodTestFirstSDK.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
+		<data>
+		Q3rBSr+QmdYWpqdEVsgynlAZA4Q=
+		</data>
+		<key>Modules/PodTestFirstSDK.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
+		<data>
+		41x1OJYlxxZ+yAKHF+hsw/ARRT8=
+		</data>
+		<key>Modules/PodTestFirstSDK.swiftmodule/i386.swiftdoc</key>
+		<data>
+		Q3rBSr+QmdYWpqdEVsgynlAZA4Q=
+		</data>
+		<key>Modules/PodTestFirstSDK.swiftmodule/i386.swiftmodule</key>
+		<data>
+		41x1OJYlxxZ+yAKHF+hsw/ARRT8=
+		</data>
+		<key>Modules/PodTestFirstSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		I8pUR/7G+ftKOlCEYy8r2WubBxE=
+		</data>
+		<key>Modules/PodTestFirstSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		AhqQFStgCjeIvkjwnnv2+ZCmxKk=
+		</data>
+		<key>Modules/PodTestFirstSDK.swiftmodule/x86_64.swiftdoc</key>
+		<data>
+		I8pUR/7G+ftKOlCEYy8r2WubBxE=
+		</data>
+		<key>Modules/PodTestFirstSDK.swiftmodule/x86_64.swiftmodule</key>
+		<data>
+		AhqQFStgCjeIvkjwnnv2+ZCmxKk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -49,13 +97,21 @@
 	<dict>
 		<key>Headers/PodTestFirstSDK-Swift.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			OfewEW2f5GCT4Izp2Py2O0vWkzk=
+			</data>
 			<key>hash2</key>
 			<data>
-			o7DmSykOoZ7/hYbwMRWgIoItHdnchdDZr3QyRHrA71c=
+			rE1MArJnFdko1Q6SJ4rkiPbuSqlo+7QS7b3QMcvJ5fA=
 			</data>
 		</dict>
 		<key>Headers/PodTestFirstSDK-umbrella.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			G0rw1Ixh0uY8ADZzOyrjScobS7I=
+			</data>
 			<key>hash2</key>
 			<data>
 			+xvolS/XLCfUn0+opA5Vqd/A4ns+kQbS3ATX5116aC4=
@@ -63,20 +119,76 @@
 		</dict>
 		<key>Modules/PodTestFirstSDK.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			/5bxWOaApfLXYsLyLtSSZolB3Z4=
+			</data>
 			<key>hash2</key>
 			<data>
-			twiT/Za0IxObWwUGQFotu5FFBSErCpFUvApjQr9h6p4=
+			whTjMYCZ9D4VXRurrt6IwKTIWkIApdPHRnVgYGvSilU=
 			</data>
 		</dict>
 		<key>Modules/PodTestFirstSDK.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			/5bxWOaApfLXYsLyLtSSZolB3Z4=
+			</data>
 			<key>hash2</key>
 			<data>
-			twiT/Za0IxObWwUGQFotu5FFBSErCpFUvApjQr9h6p4=
+			whTjMYCZ9D4VXRurrt6IwKTIWkIApdPHRnVgYGvSilU=
+			</data>
+		</dict>
+		<key>Modules/PodTestFirstSDK.swiftmodule/Project/i386-apple-ios-simulator.swiftsourceinfo</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jXTrWT7UtkPA+s2nm5OSuQ3K/lw=
+			</data>
+			<key>hash2</key>
+			<data>
+			EAg0ZJaQEXQ6J4mXKzfisb8N2qN/wp0h2RVLYFMQel4=
+			</data>
+		</dict>
+		<key>Modules/PodTestFirstSDK.swiftmodule/Project/i386.swiftsourceinfo</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jXTrWT7UtkPA+s2nm5OSuQ3K/lw=
+			</data>
+			<key>hash2</key>
+			<data>
+			EAg0ZJaQEXQ6J4mXKzfisb8N2qN/wp0h2RVLYFMQel4=
+			</data>
+		</dict>
+		<key>Modules/PodTestFirstSDK.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/EF41Uagr1fC4yc7ndQNEjaP77o=
+			</data>
+			<key>hash2</key>
+			<data>
+			Ky8GEtP0G9jM1cWSsSsiYPOazTHlEyokLWLSkn6Xg/A=
+			</data>
+		</dict>
+		<key>Modules/PodTestFirstSDK.swiftmodule/Project/x86_64.swiftsourceinfo</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/EF41Uagr1fC4yc7ndQNEjaP77o=
+			</data>
+			<key>hash2</key>
+			<data>
+			Ky8GEtP0G9jM1cWSsSsiYPOazTHlEyokLWLSkn6Xg/A=
 			</data>
 		</dict>
 		<key>Modules/PodTestFirstSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			FSUcw2mKYFDBjuIdPxz/1AfxVYA=
+			</data>
 			<key>hash2</key>
 			<data>
 			7e020Wj2DZtzDeGs8S9cCGgfyb4F0Du+4PINZmZT1rI=
@@ -84,13 +196,21 @@
 		</dict>
 		<key>Modules/PodTestFirstSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			x630Hk7fm1L5g44o+9kBgeJh25g=
+			</data>
 			<key>hash2</key>
 			<data>
-			3+R+MzKEgIEvnQYl8vZ2wE9ox1pVBDJzAj42tEJOc7E=
+			eZS8P8kT0mPt0xaggCVA7MRznP3AykHzC3zXcbftmm8=
 			</data>
 		</dict>
 		<key>Modules/PodTestFirstSDK.swiftmodule/arm64.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			FSUcw2mKYFDBjuIdPxz/1AfxVYA=
+			</data>
 			<key>hash2</key>
 			<data>
 			7e020Wj2DZtzDeGs8S9cCGgfyb4F0Du+4PINZmZT1rI=
@@ -98,13 +218,109 @@
 		</dict>
 		<key>Modules/PodTestFirstSDK.swiftmodule/arm64.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			x630Hk7fm1L5g44o+9kBgeJh25g=
+			</data>
 			<key>hash2</key>
 			<data>
-			3+R+MzKEgIEvnQYl8vZ2wE9ox1pVBDJzAj42tEJOc7E=
+			eZS8P8kT0mPt0xaggCVA7MRznP3AykHzC3zXcbftmm8=
+			</data>
+		</dict>
+		<key>Modules/PodTestFirstSDK.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Q3rBSr+QmdYWpqdEVsgynlAZA4Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			LPUwt2rxti+Lq7GIJnb1XCJkWbKYkc55DyKTmvpVwmI=
+			</data>
+		</dict>
+		<key>Modules/PodTestFirstSDK.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			41x1OJYlxxZ+yAKHF+hsw/ARRT8=
+			</data>
+			<key>hash2</key>
+			<data>
+			SkiGeNbwiqc8Y1/45sYDN2yBckUxinwxUKENGuuSV9U=
+			</data>
+		</dict>
+		<key>Modules/PodTestFirstSDK.swiftmodule/i386.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Q3rBSr+QmdYWpqdEVsgynlAZA4Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			LPUwt2rxti+Lq7GIJnb1XCJkWbKYkc55DyKTmvpVwmI=
+			</data>
+		</dict>
+		<key>Modules/PodTestFirstSDK.swiftmodule/i386.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			41x1OJYlxxZ+yAKHF+hsw/ARRT8=
+			</data>
+			<key>hash2</key>
+			<data>
+			SkiGeNbwiqc8Y1/45sYDN2yBckUxinwxUKENGuuSV9U=
+			</data>
+		</dict>
+		<key>Modules/PodTestFirstSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			I8pUR/7G+ftKOlCEYy8r2WubBxE=
+			</data>
+			<key>hash2</key>
+			<data>
+			3KMU13MeB5dpOJCw3wmP+nAwaA2/+qsB/dZK1JXcVhY=
+			</data>
+		</dict>
+		<key>Modules/PodTestFirstSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			AhqQFStgCjeIvkjwnnv2+ZCmxKk=
+			</data>
+			<key>hash2</key>
+			<data>
+			MGzQeZsQE4wJnR2+CMmZ3oKN+IG0pFAP9eb4Z5NxHic=
+			</data>
+		</dict>
+		<key>Modules/PodTestFirstSDK.swiftmodule/x86_64.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			I8pUR/7G+ftKOlCEYy8r2WubBxE=
+			</data>
+			<key>hash2</key>
+			<data>
+			3KMU13MeB5dpOJCw3wmP+nAwaA2/+qsB/dZK1JXcVhY=
+			</data>
+		</dict>
+		<key>Modules/PodTestFirstSDK.swiftmodule/x86_64.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			AhqQFStgCjeIvkjwnnv2+ZCmxKk=
+			</data>
+			<key>hash2</key>
+			<data>
+			MGzQeZsQE4wJnR2+CMmZ3oKN+IG0pFAP9eb4Z5NxHic=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			MXXC46xv8ohLnzDztlZXzbXd8go=
+			</data>
 			<key>hash2</key>
 			<data>
 			PF5MdlAzZDmsJu+kLvNAC4n4Yige4P0WNnyTIID4SHQ=

@@ -1,7 +1,5 @@
 //
 //  File.swift
-//  
-//
 //  Created by Dylan on 2021/6/3.
 //
 
@@ -11,6 +9,6 @@ public class PublicSecondTool: NSObject {
     
     public static func sayHello() {
         print("second hello")
-        PublicFirstTool.hello()
+        PrivateFirstTool.hello()
     }
 }

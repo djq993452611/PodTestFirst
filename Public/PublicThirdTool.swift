@@ -10,7 +10,7 @@ public class PublicThirdTool: NSObject {
     
     public static func hello() {
         print("third Hello")
+        PublicSecondTool.sayHello()
     }
-    
     
 }
