@@ -1,0 +1,11 @@
+framework module PodTestFirstSDK {
+  umbrella header "PodTestFirstSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module PodTestFirstSDK.Swift {
+    header "PodTestFirstSDK-Swift.h"
+    requires objc
+}

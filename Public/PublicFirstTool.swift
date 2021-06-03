@@ -7,10 +7,10 @@
 
 import Foundation
 
-public class PodPublicTestTool: NSObject {
+public class PublicFirstTool: NSObject {
     
     public static func hello() {
-        print("Hello dylan")
+        print("first Hello")
     }
     
     
