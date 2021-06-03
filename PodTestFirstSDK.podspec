@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
 
 
   s.name         = "PodTestFirstSDK"
-  s.version      = "0.0.3"
+  s.version      = "0.0.4"
   s.swift_version = '5.0'
   s.ios.deployment_target = '10.0'
   s.summary      = "简介"
@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   s.author             = { "JianQi" => "13178331272@163.com" }
   s.source       = { :git => "https://github.com/djq993452611/PodTestFirstSDK.git", :tag => s.version }
   s.requires_arc = true
-  s.source_files = "Puiblic/*", "Puiblic/**/*"
+  s.source_files = "Classes/*", "Classes/**/*"
   
   
   
