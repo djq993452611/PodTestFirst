@@ -30,6 +30,8 @@ Pod::Spec.new do |s|
   s.requires_arc = true
   ##路径添加，远程验证有问题的情况，把路径名字改成小写的文件名
   #s.source_files = "**/public/*", "**/public/**/*"
+  ##只做framework资源分享，把source_files文件资源删除，sourceTree提交更新代码
+  ##（因为source路径需要的是开源仓库路径，所以源文件全部删除）
   s.vendored_frameworks = '**/sources/*.framework'
   
   
